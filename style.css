@@ -1,20 +1,20 @@
 .wrapper {
-  width: 800px;
-  margin: 0 auto;
+    width: 800px;
+    margin: 0 auto;
 }
 
 .title {
-  margin-top: 60px;
-  margin-bottom: 20px;
+    margin-top: 60px;
+    margin-bottom: 20px;
 }
 
 .barcodeContainer {
-  max-height: 50vh;
-  overflow-y: auto;
-  margin-top: 40px;
+    max-height: 50vh;
+    overflow-y: auto;
+    margin-top: 40px;
 }
 
 #link {
-  display: none;
-  margin: 10px 0;
+    display: none;
+    margin: 10px 0;
 }
